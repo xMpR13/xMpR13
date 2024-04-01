@@ -1,6 +1,6 @@
 ![luffy_waving](https://github.com/xMpR13/xMpR13/assets/126524261/4bea8bcd-ded2-4fdf-967a-bf53db7e0120)
 
-# Hi, I'm Prosper! 🌚
+# Hi, I'm Prosper!
 
 Welcome to my GitHub profile! I'm a student from South Africa, passionate about learning to code and creating cool projects.
 
