@@ -2,13 +2,13 @@
 
 # Hi, I'm Prosper!
 
-Welcome to my GitHub profile! I'm a student from South Africa, passionate about learning to code and creating cool projects.
+A passionate computer science student from South Africa, enthusiastic about coding and creating innovative projects. Implementation of data structures, if statements and loops. Especially for loop
 
 ## About Me
 
-- 🌱 I’m currently learning HTML, CSS, Java, Swift, and SwiftUI.
+- 🌱 I’m currently learning HTML, CSS, Java and GDScript.
 - 🔭 I’m currently working on learning Algorithms and how to program.
-- 😀 I enjoy Anime, manga, gaming, and watching YouTube videos in my free time.
+- 😀 I enjoy anime, manga, gaming, and watching YouTube videos in my free time.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
 ## Projects
