@@ -15,11 +15,11 @@ A passionate computer science student from South Africa, enthusiastic about codi
 
 I usually update my programming projects on GitHub when I've made substantial progress. But for markdown files, I make smaller updates more frequently. Feel free to contribute to any of my projects by submitting a pull request.
 
-<!--
+
+<a href="https://github.com/xMpR13/reLowCased.git">reLowCased</a> is iOS app built with SwiftUI offers text manipulation, convert text to lowercase/uppercase and encrypt it using a Caesar cipher. With a clean interface, straightforward navigation and functionality, making it easy to use for modifying and securing text on iOS devices.
 ## Screenshots
+<img src="https://github.com/xMpR13/reLowCased/assets/126524261/a4254cbc-f770-4341-a129-f1471bee0d09" alt="Home" width="38%">
 
-
--->
 ## GitHub Stats
 
 
