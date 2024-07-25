@@ -18,7 +18,7 @@ I usually update my programming projects on GitHub when I've made substantial pr
 
 <a href="https://github.com/xMpR13/reLowCased.git"><b>reLowCased</b></a> <br>
 A iOS app built with SwiftUI offers text manipulation, convert text to lowercase/uppercase and encrypt it using a Caesar cipher. With a clean interface, straightforward navigation and functionality, making it easy to use for modifying and securing text on iOS devices.
-<b>Screenshots</b> <br>
+<br><b>Screenshots</b> <br>
 
 <table>
   <tr>
