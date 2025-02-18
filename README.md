@@ -18,14 +18,11 @@ I usually update my programming projects on GitHub when I've made substantial pr
 
 <a href="https://github.com/xMpR13/reLowCased.git"><b>reLowCased</b></a> <br>
 A iOS app built with SwiftUI offers text manipulation, convert text to lowercase/uppercase and encrypt it using a Caesar cipher. With a clean interface, straightforward navigation and functionality, making it easy to use for modifying and securing text on iOS devices.
-<br><b>Screenshots</b> <br>
+<br>
+<br>
 
-<table>
-  <tr>
-    <td><img src="https://github.com/xMpR13/reLowCased/assets/126524261/a4254cbc-f770-4341-a129-f1471bee0d09" alt="Home" width="100" height="100"></td>
-    <td><img src="https://github.com/xMpR13/reLowCased/assets/126524261/eb899194-ad8c-4026-8b52-ed4e79d94bba" alt="Convert_1" width="100" height="100"></td>
-  </tr>
-</table>
+<a href="https://github.com/xMpR13/Notepad_minus.git"><b>Notepad Minus - Java Text Editor</b><br></a>
+This Java-based text editor, "Notepad Minus," provides basic text editing features with a simple graphical interface.
 
 
 
