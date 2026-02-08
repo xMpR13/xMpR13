@@ -23,15 +23,3 @@ A iOS app built with SwiftUI offers text manipulation, convert text to lowercase
 
 <a href="https://github.com/xMpR13/Notepad_minus.git"><b>Notepad Minus - Java Text Editor</b><br></a>
 This Java-based text editor, "Notepad Minus," provides basic text editing features with a simple graphical interface.
-
-
-
-## GitHub Stats
-
-
-  [![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=xmpr13)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmpr13&layout=compact&hide=css&langs_count,reactjs,typeScript=15&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/xmpr13/xmpr13)
