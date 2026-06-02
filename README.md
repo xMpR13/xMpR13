@@ -1,25 +1,72 @@
-![luffy_waving](https://github.com/xMpR13/xMpR13/assets/126524261/4bea8bcd-ded2-4fdf-967a-bf53db7e0120)
-
-# Hi, I'm Prosper!
-
-A passionate computer science student from South Africa, enthusiastic about coding and creating innovative projects. Implementation of data structures, if statements and loops. Especially for loop
-
-## About Me
-
-- 🌱 I’m currently learning HTML, CSS, Java and GDScript.
-- 🔭 I’m currently working on learning Algorithms and how to program.
-- 😀 I enjoy anime, manga, gaming, and watching YouTube videos in my free time.
-- ⚡ Fun fact: My first line of code was not "Hello World!"
-
-## Projects
-
-I usually update my programming projects on GitHub when I've made substantial progress. But for markdown files, I make smaller updates more frequently. Feel free to contribute to any of my projects by submitting a pull request.
 
 
-<a href="https://github.com/xMpR13/reLowCased.git"><b>reLowCased</b></a> <br>
-A iOS app built with SwiftUI offers text manipulation, convert text to lowercase/uppercase and encrypt it using a Caesar cipher. With a clean interface, straightforward navigation and functionality, making it easy to use for modifying and securing text on iOS devices.
-<br>
-<br>
+#  Hey, I’m Prosper
 
-<a href="https://github.com/xMpR13/Notepad_minus.git"><b>Notepad Minus - Java Text Editor</b><br></a>
-This Java-based text editor, "Notepad Minus," provides basic text editing features with a simple graphical interface.
+Computer Science student from South Africa who learns best by building things, breaking them, and figuring out why they broke in the first place.
+
+I’m focused on backend development, Java, and understanding how real-world software works beyond the classroom.
+
+---
+
+##  What I’m doing right now
+
+- Learning Java beyond the basics (cleaner, stronger foundations)
+- Practicing data structures and algorithms
+- Exploring SwiftUI and GDScript for mobile and game dev
+- Building small projects whenever I get the chance
+
+---
+
+##  Skills (still leveling up)
+
+**Languages**
+- Java (main focus)
+- Swift (SwiftUI experiments)
+- HTML / CSS
+- JavaScript (basic)
+- GDScript
+
+**Currently improving**
+- Object-Oriented Programming
+- Data structures & algorithms
+- Debugging without spiraling 
+- File handling
+- Basic software design principles
+
+---
+
+## 🛠 Projects
+
+### Notepad Minus (Java)
+A lightweight text editor built to understand how desktop apps work under the hood.
+
+It supports creating, editing, and saving files. Simple on the surface, but it helped me learn a lot about Java GUIs, events, and application structure.
+
+---
+
+### reLowCased (SwiftUI)
+A small iOS app that converts text case and includes basic Caesar cipher encryption.
+
+Built while learning SwiftUI and exploring how mobile app architecture fits together.
+
+---
+
+##  What I’m focused on
+
+Right now I’m prioritizing:
+- Sharpening problem-solving skills
+- Writing cleaner and more maintainable Java code
+- Building backend-style projects
+- Finishing projects instead of collecting half-built ideas
+
+---
+
+##  Why I code
+
+I enjoy turning ideas into something that actually runs. Even small or imperfect projects feel like progress worth keeping.
+
+---
+
+## Contact
+
+Feel free to explore my repos or leave feedback. I’m always learning, so every bit helps.
